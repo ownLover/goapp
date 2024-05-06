@@ -1,4 +1,4 @@
-module github.com/it234/goapp/internal
+module github.com/ownLover/goapp/internal
 
 go 1.12
 

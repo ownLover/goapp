@@ -1,10 +1,10 @@
 package sys
 
 import (
-	"github.com/it234/goapp/internal/app/manageweb/controllers/common"
-	models "github.com/it234/goapp/internal/pkg/models/common"
-	"github.com/it234/goapp/internal/pkg/models/sys"
-	"github.com/it234/goapp/pkg/convert"
+	"github.com/ownLover/goapp/internal/app/manageweb/controllers/common"
+	models "github.com/ownLover/goapp/internal/pkg/models/common"
+	"github.com/ownLover/goapp/internal/pkg/models/sys"
+	"github.com/ownLover/goapp/pkg/convert"
 
 	"github.com/gin-gonic/gin"
 )
